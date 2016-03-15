@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW1</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ChoiceText">On your free time you\'d prefer to : </string>
+    <string name="Work">Work</string>
+    <string name="Relax">Relax</string>
+    <string name="Napping">Have a nap</string>
+    <string name="Choose">Choose</string>
+</resources>
